@@ -4,5 +4,5 @@ BACKGROUND  :blue_book: :soccer: :question:
 
 WEB SCRAPING 
 
-I'll use Python and beautifulsoup and Pandas libraries to perform the data collection  and manipulation of this project.
+I'll use Python ; beautifulsoup and Pandas libraries to perform the data collection  and manipulation of this project.
 Once data it's prepared, It'll be stored in SQL Server. Transact SQL will be used to create a table and test if data was correctly stored.
